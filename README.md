@@ -31,7 +31,7 @@ Simple applications for member rewards
 ### Testing
       ```
       $ cd /path/to/your/project
-      $ npm run test
+      $ npm test
       ```
 
 ### Endpoints
